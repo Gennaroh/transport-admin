@@ -1,1 +1,16 @@
-{"vmi":"vmi"}
+{
+  "common": {
+    "label": {
+      "email": "E-mail",
+      "password": "Jelszó"
+    },
+    "placeholder": {
+      "email": "email@example.com",
+      "password": "••••••••"
+    }
+  },
+  "auth": {
+    "login": "Bejelentkezés",
+    "validation_error": "Hibás e-mail vagy jelszó"
+  }
+}
